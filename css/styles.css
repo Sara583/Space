@@ -1,0 +1,50 @@
+body{
+  background-color:#d2c6b2;
+  text-align: center;
+
+}
+.planet{
+  background:transparent ;
+  width:50%;
+  transform: rotate(150deg);
+  margin-right:600px;
+  margin-top: -150px;
+  z-index: 1;
+  position: relative;
+}
+h1{
+  font-family: 'Pacifico';
+    margin: 30px;
+    color: white;
+}
+.first-container{
+  background-image: url("space.jpg");
+}
+.d-block{
+  width:auto;
+  height: 300px;
+border-radius: 50%;
+margin:10% 40%  ;
+}
+.sec-container{
+  background-color: black;
+  color: grey;
+
+}
+.third-container{
+  background-color: black;
+
+}
+.plate{
+  background-color:black;
+}
+.last-div{
+background-color:black;
+padding: 100px;
+}
+.btn{
+margin: 20px;
+}
+p{
+  color: white;
+}
